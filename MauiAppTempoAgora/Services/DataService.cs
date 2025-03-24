@@ -1,6 +1,4 @@
 ﻿using MauiAppTempoAgora.Models;
-
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
 namespace MauiAppTempoAgora.Services;
